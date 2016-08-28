@@ -1,3 +1,16 @@
+#Recommendations Service
+
+###CRUD APIs for Ratings
+
+###Recommendations to user 
+
+Using user user collaborative filtering 
+
+
+### Apache Spark
+
+For ML
+
 ###Dependencies
 ######For versions checkout pom.xml
 
