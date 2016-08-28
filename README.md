@@ -1,5 +1,7 @@
 #Recommendations Service
 
+Spring Maven Java based recommendations service.
+
 ###CRUD APIs for Ratings
 
 ###Recommendations to user 
