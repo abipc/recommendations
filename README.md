@@ -16,7 +16,7 @@ For ML
 
 Spring 
 
-Apache Spark
+Redis
 
 Maven
 
